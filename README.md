@@ -79,4 +79,3 @@ Jawaban : [Source Code](https://github.com/awaqo/20104016_Aqil-Jawadal-Furqon_SE
 ## C. Kesimpulan
 Pada praktikum modul 3 ini, materi yang saya dapat dan saya pahami yaitu mengenai pengenalan PBO dengan diawali membuat atau mendeklarasikan sebuah class, mendeklarasikan atribut dari class yang telah dibuat, mendeklarasikan metode dari class tersebut, lalu mengakses anggota dari suatu objek dengan cara membuat instance dari class yang telah dibuat.
 
-
