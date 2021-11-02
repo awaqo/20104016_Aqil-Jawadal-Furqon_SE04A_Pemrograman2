@@ -95,7 +95,9 @@ dengan menggunakan operator new pada pembentukan sebuah class.
 Membuat class StudentRecord & StudentRecordExample, run lalu analisis, tentukan konsep yang dipakai, dan mengapa hasil run seperti yang ada di modul
 
 Jawaban : 
+
 [Source Code 1](https://github.com/awaqo/20104016_Aqil-Jawadal-Furqon_SE04A_Pemrograman2/blob/modul4/src/modul4/latihan/StudentRecord.java)
+
 [Source Code 2](https://github.com/awaqo/20104016_Aqil-Jawadal-Furqon_SE04A_Pemrograman2/blob/modul4/src/modul4/latihan/StudentRecordExample.java)
 
 Analisis :
