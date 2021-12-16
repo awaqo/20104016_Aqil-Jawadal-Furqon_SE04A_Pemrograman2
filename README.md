@@ -11,3 +11,4 @@
 4. [Modul 5 : Mengelola Class](https://github.com/awaqo/20104016_Aqil-Jawadal-Furqon_SE04A_Pemrograman2/tree/modul5)
 5. [Modul 6 : Konsep Inheritance](https://github.com/awaqo/20104016_Aqil-Jawadal-Furqon_SE04A_Pemrograman2/tree/modul6)
 6. [Modul 7 : Overloading dan Overriding](https://github.com/awaqo/20104016_Aqil-Jawadal-Furqon_SE04A_Pemrograman2/tree/modul7)
+7. [Modul 8 : Polimorfisme](https://github.com/awaqo/20104016_Aqil-Jawadal-Furqon_SE04A_Pemrograman2/tree/modul8)
